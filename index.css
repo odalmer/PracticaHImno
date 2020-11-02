@@ -1,0 +1,142 @@
+*{
+    padding: 0px;
+    margin: 0px;
+
+}
+header{
+    background-color: #F25757;
+    color: white;
+    font-family: 'Lucida Sans';
+    border: solid #de1a1aa3;
+
+}
+
+#div_logo{
+    display: table-cell;
+    text-align:center;
+    width: 10%;
+    min-width: 50px;
+    height: 5%;
+	vertical-align:middle;  
+    /* margin:0 0 0 2px; */
+    padding-left: 5%;
+}
+
+#flag{
+    max-width: 100%;
+    min-height:0%;
+    min-width:90%;
+    width: 90px;
+    height: 20%;
+}
+
+#header_text{
+    padding-left: 1%;
+    width: 50%;
+	display:table-cell;
+	text-align:left;
+	vertical-align:middle;    
+    font-size:1rem;
+
+}
+#container{
+    width: 100%;
+    background-color: #faead1;
+}
+
+#body{
+    margin: 1%;
+    padding: 1%;
+    margin-left: 5%;
+    float: left;
+    padding-top: 1%;
+    background-color: white;
+    width: 50%;
+    height: 90%;
+
+}
+
+#aside{
+    margin: 1%;
+    margin-left: 5%;
+    float: left;
+    background-color: #61E8E1;
+    width: 31%;
+    height: auto;
+    padding: 1%;
+    text-align: center;
+}
+img{
+    margin: 0px;
+    padding: 2%;
+    width: 60%;
+    max-height: 280px;
+}
+.p1{
+    font-family: 'Times New Roman';
+    line-height: 30PX;
+}
+
+.p2{
+    font-family: 'Lucida Sans';
+    font-style: italic;
+    color: #3F334D;
+}
+
+.p3{
+    font-family: 'Lucida Sans';
+    color: #32DE8A;
+
+}.p4{
+    font-family: 'Lucida Sans';
+    color: #35524A;
+
+}.p5{
+    font-family: 'Lucida Sans';
+    color: #8C5E58;
+
+}.p6{
+    font-family: 'Lucida Sans';
+    color: #FF7E6B   ;
+
+}
+
+.p7{
+    font-family: Verdana;
+    color: white;
+    background-color: blue;
+
+}
+.p8{
+    font-family: 'Lucida Sans';
+    color: #896A67;
+    text-align: justify;
+}
+.p9{
+    font-family: 'Lucida Sans';
+    color: #4A2545;
+
+}
+.p10{
+    font-family: 'Lucida Sans';
+    color: #90AA86 ;
+
+}
+.p11{
+    font-family: 'Lucida Sans';
+    color: #3F7CAC;
+
+}
+.p12{
+    font-family: 'Lucida Sans';
+    color: #9E788F;
+
+}
+footer{
+    padding: 4%;
+    background-color:  #F25757;
+    color: white;
+    text-align: center;
+    border: solid #de1a1aa3;
+    clear: both;
+}
